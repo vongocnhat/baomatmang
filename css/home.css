@@ -89,10 +89,16 @@
 .border-news-left { 
   border-left: inherit;
   padding-left: 0;
+  margin-left: 7.5px;
 }
 .border-news-right { 
   border-right: inherit;
   padding-right: 0;
+  margin-right: 7.5px;
+}
+.border-news-right .margin-text {
+  border-bottom: 1px solid #e4e4e4;
+  padding-bottom: 2px;
 }
 .border-center {
   padding: 5px;
